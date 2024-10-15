@@ -1,1 +1,3 @@
-# Urban-Data-A3-NYC-Racial-Discrimination-in-Stop-and-Frisk
+# INFO5430 Urban Data
+
+## Project 3: NYC Racial Discrimiation in Stop and Frisk
